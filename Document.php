@@ -7,9 +7,13 @@
     <title>Document</title>
 </head>
 <body>
-    <h1>sohanur</h1>
-    <h2>rahman</h2>
-    <h3>sohan</h3>
+    <?php
+    echo "sohanur rahman sohannn";
+    echo "<br/>";
+    echo "01744503744";
+    echo "<br/>";
+    echo "i have a problem in php admin panel";
+    ?>
     
 </body>
 </html>
